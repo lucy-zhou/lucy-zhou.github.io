@@ -7,6 +7,7 @@ My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism an
 ![Lehigh Undergrad Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/hello,.png?raw=true) 
 ### Office of Institutional Research. [Background Image](https://seedscenter.uark.edu/wp-content/uploads/sites/101/2017/09/image-for-Save-the-Date.jpg)
 This infographic shows the percentages of undergraduate students who live in each option for residence at Lehigh University.
+## Infographic on Tourism in China
 ![Tourism in China Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Shanghai.png?raw=true)
 ### Travel China Guide. 
 This infographic shows the growth rate of tourism in China from 2011-2016. The background image is a picture I took this past summer (Summer 2017) when I visited my parents in Shanghai. 
