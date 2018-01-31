@@ -11,4 +11,9 @@ This infographic shows the percentages of undergraduate students who live in eac
 ![Tourism in China Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Shanghai.png?raw=true)
 ### Travel China Guide. 
 This infographic shows the growth rate of tourism in China from 2011-2016. The background image is a picture I took this past summer (Summer 2017) when I visited my parents in Shanghai. 
+## Practice Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uuX21yAoDYJsRMZ0pP0x73Y8wyvDk2iyf7c-OnaNIVA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+This timeline follows the 2016 Summer Olympics in Rio. The main focus is opening night.
+## Timeline: Evolution of Flannels
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XzO2EOpuZR4QA8wu_DGVu_wrTyU4FA0Ji-DwoKfFlX0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+This timeline is about the history and evolution of flannels. Though the fabric was invented by the Welsh and was first popular in Europe, the flannel eventually reached America. The production and sale of flannels in America led to the emergence of the grunge style and an increase in popularity. Today, flannel is mainstream and seen everywhere.
