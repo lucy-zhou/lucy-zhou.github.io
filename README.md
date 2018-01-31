@@ -11,3 +11,4 @@ This infographic shows the percentages of undergraduate students who live in eac
 ![Tourism in China Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Shanghai.png?raw=true)
 ### Travel China Guide. 
 This infographic shows the growth rate of tourism in China from 2011-2016. The background image is a picture I took this past summer (Summer 2017) when I visited my parents in Shanghai. 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uuX21yAoDYJsRMZ0pP0x73Y8wyvDk2iyf7c-OnaNIVA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
