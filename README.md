@@ -5,12 +5,11 @@ My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism an
 ## [LinkedIn Page](https://www.linkedin.com/in/lucy-zhou-70434b14a/)
 ## Infographic on Undergraduate Residence at Lehigh 
 ![Lehigh Undergrad Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/hello,.png?raw=true) 
-### Office of Institutional Research. [Background Image](https://seedscenter.uark.edu/wp-content/uploads/sites/101/2017/09/image-for-Save-the-Date.jpg)
+Source: Office of Institutional Research. [Background Image](https://seedscenter.uark.edu/wp-content/uploads/sites/101/2017/09/image-for-Save-the-Date.jpg)
 This infographic shows the percentages of undergraduate students who live in each option for residence at Lehigh University.
 ## Infographic on Tourism in China
 ![Tourism in China Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Shanghai.png?raw=true)
-### Travel China Guide. 
-This infographic shows the growth rate of tourism in China from 2011-2016. The background image is a picture I took this past summer (Summer 2017) when I visited my parents in Shanghai. 
+Source: Travel China Guide. This infographic shows the growth rate of tourism in China from 2011-2016. The background image is a picture I took this past summer (Summer 2017) when I visited my parents in Shanghai. 
 ## Practice Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uuX21yAoDYJsRMZ0pP0x73Y8wyvDk2iyf7c-OnaNIVA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline follows the 2016 Summer Olympics in Rio. The main focus is opening night.
