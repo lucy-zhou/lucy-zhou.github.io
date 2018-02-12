@@ -16,4 +16,6 @@ This timeline follows the 2016 Summer Olympics in Rio. The main focus of the tim
 ## Evolution of Flannels
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XzO2EOpuZR4QA8wu_DGVu_wrTyU4FA0Ji-DwoKfFlX0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline is about the history and evolution of flannels. Though the fabric was invented by the Welsh and was first popular in Europe, the flannel eventually reached America. The production and sale of flannels in America led to the emergence of the grunge style and an increase in popularity. Today, flannel is mainstream and seen everywhere.
+## Bar Chart of Lehigh 2016 Undergraduate Enrollment
 ![Bar Chart of 2016 Undergraduate Enrollment](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment_in_Each_College_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+This bar chart shows the percentages of undergraduate enrollment for each college at Lehigh University. The data is from fall of 2016.
