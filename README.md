@@ -22,3 +22,6 @@ This bar chart shows the percentages of undergraduate enrollment for each colleg
 ## Line Chart of Lehigh Undergraduate Enrollment Over 10 Years
 ![Line Chart of Lehigh Undergraduate Enrollment Over 10 Years](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Percentage_of_Undergraduate_Enrollment_in_Each_College_Over_10_Years_Arts_&_Sciences_Business_&_Economics_Engineering_&_Applied_Sciences_chartbuilder.png?raw=true)
 This line chart shows the percentages of undergraduate enrollment for each college at Lehigh University over the past 10 years (2008-2017). 
+## Chart of Statistics for New England Patriots Over 10 Years
+![Chart of Statistics for New England Patriots Over 10 Years](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Statistics_for_the_New_England_Patriots_Over_10_Years_Wins__Losses_Rank_in_Yardage_Differential_(out_of_32_teams)_Rank_in_Point_Differential_(out_of_32_teams)_chartbuilder.png?raw=true)
+This bar chart shows the different variables of wins and losses for the 16 games played by the New England Patriots every year for the past 10 years. The rank in yard differential and rank in point differential compares the Patriots with the 31 other teams in the NFL.
