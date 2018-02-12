@@ -19,3 +19,6 @@ This timeline is about the history and evolution of flannels. Though the fabric 
 ## Bar Chart of Lehigh 2016 Undergraduate Enrollment
 ![Bar Chart of 2016 Undergraduate Enrollment](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment_in_Each_College_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 This bar chart shows the percentages of undergraduate enrollment for each college at Lehigh University. The data is from fall of 2016.
+## Line Chart of Lehigh Undergraduate Enrollment Over 10 Years
+![Line Chart of Lehigh Undergraduate Enrollment Over 10 Years](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Percentage_of_Undergraduate_Enrollment_in_Each_College_Over_10_Years_Arts_&_Sciences_Business_&_Economics_Engineering_&_Applied_Sciences_chartbuilder.png?raw=true)
+This line chart shows the percentages of undergraduate enrollment for each college at Lehigh University over the past 10 years (2008-2017). 
