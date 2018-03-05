@@ -1,4 +1,4 @@
-![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
+## ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 # lucy-zhou.github.io
 ## About me
 My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism and Economics with a Business minor. I'm from Mansfield, Masachusetts. 
