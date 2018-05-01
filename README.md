@@ -1,6 +1,6 @@
 # lucy-zhou.github.io
 # Final Project
-## Feature Photos
+## Photos
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
 The wheels are purchased and modified by the Formula SAE team. Formula cars need to be designed and built for speed around a corner on pavement.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6103.jpg)
@@ -14,6 +14,8 @@ Formula SAE makes final touches on the car before the test drive the next day on
 ## Magazine Layout
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ.jpg)
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ2.jpg)
+## Video
+
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 ## About me
