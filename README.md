@@ -1,4 +1,5 @@
 # lucy-zhou.github.io
+# Final Project
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
 The wheels are purchased and modified by the Formula SAE team. Formula cars need to be designed and built for speed around a corner on pavement.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6103.jpg)
@@ -9,6 +10,8 @@ Tools and equipment are gifted by outside sponsors. The team builds and assemble
 The Lehigh Formula SAE team works on the car for the test drive on Saturday, April 21, at Mohler Laboratory. The racecar designed and built by the team will be raced in the Society of Automotive Engineers competition, which encourages students to learn and apply engineering skills.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6142.jpg)
 Formula SAE makes final touches on the car before the test drive the next day on Saturday, April 21, at Mohler Lab. The steel tubes were cut, notched and welded by the team.
+## Magazine Layout
+![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ.jpg)
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 ## About me
