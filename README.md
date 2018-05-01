@@ -18,7 +18,7 @@ Formula SAE makes final touches on the car before the test drive the next day on
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ.jpg)
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ2.jpg)
 ## Video
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-XgOz3uRQt4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 ## [LinkedIn Page](https://www.linkedin.com/in/lucy-zhou-70434b14a/)
