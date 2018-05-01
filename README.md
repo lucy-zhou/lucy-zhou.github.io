@@ -1,5 +1,6 @@
 # lucy-zhou.github.io
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
+The wheels are purchased and modified by the Formula SAE team. Formula cars need to be designed and built for speed around a corner on pavement.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6103.jpg)
 Members of the team work on the gears in the back of the race car in preparation on Saturday, April 21, at Mohler Lab. Though the engine was purchased, Formula SAE modified the engine and built the carbon fiber components.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6117.jpg)
