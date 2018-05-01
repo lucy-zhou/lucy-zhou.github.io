@@ -1,9 +1,10 @@
 # lucy-zhou.github.io
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6103.jpg)
+Members of the team work on the gears in the back of the race car in preparation on Saturday, April 21, at Mohler Lab. Though the engine was purchased, Formula SAE modified the engine and built the carbon fiber components.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6117.jpg)
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6138.jpg)
-The Lehigh Formula SAE team works on the car for the test drive on Saturday, April 21, at Mohler Laboratory. The racecar designed and built by the team will be raced in the Society of Automo ve Engineers compe  on, which encourages students to learn and apply engineering skills.
+The Lehigh Formula SAE team works on the car for the test drive on Saturday, April 21, at Mohler Laboratory. The racecar designed and built by the team will be raced in the Society of Automotive Engineers competition, which encourages students to learn and apply engineering skills.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6142.jpg)
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
