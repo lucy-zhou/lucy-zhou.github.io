@@ -1,5 +1,6 @@
 # lucy-zhou.github.io
 # Final Project
+## Feature Photos
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
 The wheels are purchased and modified by the Formula SAE team. Formula cars need to be designed and built for speed around a corner on pavement.
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6103.jpg)
