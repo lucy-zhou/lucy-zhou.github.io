@@ -12,6 +12,7 @@ The Lehigh Formula SAE team works on the car for the test drive on Saturday, Apr
 Formula SAE makes final touches on the car before the test drive the next day on Saturday, April 21, at Mohler Lab. The steel tubes were cut, notched and welded by the team.
 ## Magazine Layout
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ.jpg)
+![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ2.jpg)
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 ## About me
