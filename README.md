@@ -1,4 +1,7 @@
 # lucy-zhou.github.io
+## About me
+My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism and Economics with a Business minor. I'm from Mansfield, Masachusetts. 
+![Profile Image](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/19225080_10213821136470997_917504149604664324_n.jpg?oh=f27fe005ed8ff39a02a46e3b80040099&oe=5B26B2D0)
 # Final Project
 ## Photos
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
@@ -18,9 +21,6 @@ Formula SAE makes final touches on the car before the test drive the next day on
 
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
-## About me
-My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism and Economics with a Business minor. I'm from Mansfield, Masachusetts. 
-![Profile Image](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/19225080_10213821136470997_917504149604664324_n.jpg?oh=f27fe005ed8ff39a02a46e3b80040099&oe=5B26B2D0)
 ## [LinkedIn Page](https://www.linkedin.com/in/lucy-zhou-70434b14a/)
 ## Infographic on Tourism in China
 ![Tourism in China Infographic](https://github.com/lucy-zhou/lucy-zhou.github.io/blob/master/Shanghai.png?raw=true)
