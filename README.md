@@ -1,8 +1,5 @@
 # lucy-zhou.github.io
-## About me
-My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism and Economics with a Business minor. I'm from Mansfield, Masachusetts. 
-![Profile Image](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/19225080_10213821136470997_917504149604664324_n.jpg?oh=f27fe005ed8ff39a02a46e3b80040099&oe=5B26B2D0)
-# Final Project
+# Final Project: Lehigh Formula SAE
 ## Photos
 ![Feature Photo](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/IMG_6098.jpg)
 The wheels are purchased and modified by the Formula SAE team. Formula cars need to be designed and built for speed around a corner on pavement.
@@ -19,6 +16,9 @@ Formula SAE makes final touches on the car before the test drive the next day on
 ![Magazine Layout](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Final%20Project%20Magazine%20Layout%20LZ2.jpg)
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2siJQtQkr8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## About me
+My name is Lucy Zhou. I'm a sophomore at Lehigh double majoring in Journalism and Economics with a Business minor. I'm from Mansfield, Masachusetts. 
+![Profile Image](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/19225080_10213821136470997_917504149604664324_n.jpg?oh=f27fe005ed8ff39a02a46e3b80040099&oe=5B26B2D0)
 ## My Plans for Summer '18
 ![My Plans for This Summer](https://raw.githubusercontent.com/lucy-zhou/lucy-zhou.github.io/master/Screen%20Shot%202018-03-05%20at%203.47.38%20PM.png)
 ## [LinkedIn Page](https://www.linkedin.com/in/lucy-zhou-70434b14a/)
